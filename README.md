@@ -1,0 +1,2 @@
+# premonitor
+General Prediction Ideas
